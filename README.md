@@ -1,2 +1,2 @@
-# Hr-Analytics-Dashboard
-Displays the breakdown of employees by various categories like age, gender, location, department, and job level. It helps track diversity and inclusion efforts
+HR Analytics Dashboard: Unlocking Workforce Insights
+Transform your HR data into actionable insights with this interactive Power BI dashboard. Track key metrics like employee performance, retention rates, absenteeism, and recruitment trends. With real-time data and customizable visualizations, make informed, data-driven decisions to optimize workforce strategies and enhance overall organizational performance
